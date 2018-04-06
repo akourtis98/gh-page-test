@@ -14,4 +14,4 @@ You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
 
-# author: Alexandros Kourtis, my dudes
+# author: Alexandros, my dudesfLyMd-mAkEr
