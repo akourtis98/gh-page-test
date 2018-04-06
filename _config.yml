@@ -6,17 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: This is my title m8.
+title: Just another great title.
 email: akourtisdev@gmail.com
 description: > # this is my description my dude
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  akourtis98
-
+twitter_username: akourtis98
 # Build settings
+
 markdown: kramdown
 <<<<<<< HEAD
 theme: minima
-=======
-
-theme: jekyll-theme-time-machine
->>>>>>> e0aec06ea8c6f45eb3273353de39b1df12d85a1b
